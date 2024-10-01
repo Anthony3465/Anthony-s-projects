@@ -1,5 +1,5 @@
 # Anthony-s-projects
-<h2>Hi my name is Anthony Le</h2
+<h2>Hi my name is Anthony Le</h2>
 <p1>I am an Information Technology student at the University of North Florida and am set to graduate December 2025.</p1> 
 <br>
 <p1>Here are some of my future projects 
