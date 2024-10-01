@@ -5,7 +5,7 @@
 <p1>Here are some of my future projects 
 <ul>
   <li>App that suggests the best fast food meal with ingredients for the user</li>
-  <li>Creating a personal website for someone else</li>
+  <li>Website that breates a combination of jelly Belly jelly beans to try</li>
   <li>Creating a bot that monitors my emails for things that I do not care for</li>
 </ul>
 
